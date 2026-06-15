@@ -1,0 +1,1 @@
+The app was designed by Andrew Gehringer in 2013. I have added some features (like the level of volume) and recompiled for 64x processors. It needs admin rights to access all things like the CPU temp.
