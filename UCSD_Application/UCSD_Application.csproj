@@ -25,14 +25,14 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>false</MapFileExtensions>
-    <SupportUrl>http://www.AGehringer.com</SupportUrl>
-    <ErrorReportUrl>http://www.AGehringer.com</ErrorReportUrl>
+    <SupportUrl>https://github.com/M-i-chael/UCSD_Application</SupportUrl>
+    <ErrorReportUrl>https://github.com/M-i-chael/UCSD_Application</ErrorReportUrl>
     <ProductName>USB Computer Status Display</ProductName>
-    <PublisherName>Andrew Gehringer</PublisherName>
+    <PublisherName>Michael Timoshkin</PublisherName>
     <SuiteName>UCSD</SuiteName>
     <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
     <ApplicationRevision>0</ApplicationRevision>
-    <ApplicationVersion>1.4.0.0</ApplicationVersion>
+    <ApplicationVersion>2.0.1.0</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
     <PublishWizardCompleted>true</PublishWizardCompleted>

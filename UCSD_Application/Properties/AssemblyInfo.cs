@@ -8,10 +8,10 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("UCSD_Application")]
 [assembly: AssemblyDescription("USB Computer Status Display")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Andrew Gehringer")]
+[assembly: AssemblyCompany("Michael Timoshkin")]//Andrew Gehringer
 [assembly: AssemblyProduct("UCSD_Application")]
-[assembly: AssemblyCopyright("Copyright ©  2013")]
-[assembly: AssemblyTrademark("www.AGehringer.com")]
+[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyTrademark("https://github.com/M-i-chael/UCSD_Application")]//www.AGehringer.com
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
