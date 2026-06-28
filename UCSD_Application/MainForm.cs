@@ -92,7 +92,7 @@ namespace UCSD_Application
             lcdDisplay.findDevice();
 
             // Add a link to my website and add the current version info to the form.
-            WebsiteLinkLabel.Links.Add(0, 50, "www.AGehringer.com");
+            WebsiteLinkLabel.Links.Add(0, 50, "https://github.com/M-i-chael/UCSD_Application");//www.AGehringer.com
             versionLabel.Text = getVersionAndBuildDate();
 
             // Restore user selected timeout and refresh values from settings

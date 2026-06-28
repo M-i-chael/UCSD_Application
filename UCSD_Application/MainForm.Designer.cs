@@ -213,7 +213,7 @@
             this.WebsiteLinkLabel.Name = "WebsiteLinkLabel";
             this.WebsiteLinkLabel.Size = new System.Drawing.Size(249, 19);
             this.WebsiteLinkLabel.TabIndex = 14;
-            this.WebsiteLinkLabel.Text = "Andrew Gehringer - AGehringer.com";
+            this.WebsiteLinkLabel.Text = "Andrew Gehringer/Michael Tim";
             this.WebsiteLinkLabel.UseCompatibleTextRendering = true;
             this.WebsiteLinkLabel.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.WebsiteLinkLabel_LinkClicked);
             // 
